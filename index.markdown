@@ -10,7 +10,7 @@ layout: default
     {% include image.html url="/assets/images/profile_home.jpg" width=200 height=400 align="right" %}
     
     <h2>
-        Welcome, I'm Ganesh.
+        **Welcome, I'm Ganesh.**
     </h2>
     <p> 
         At present, I'm working as a Sr. Software Development Engineer in the open source linux graphics driver team at AMD. With a background of 5+ years as a software engineer, I have accumulated experience working in media, automobile and semiconductor industries. My areas of interests are in Computer Graphics and its related fields.<br><br>
