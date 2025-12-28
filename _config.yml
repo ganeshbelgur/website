@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ganesh Belgur
+title: Ganesh Belgur Ramachandra
 # general_email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   The opinions shared in this website do not reflect the opinions of the author's current or previous employers.
-  <i>Copyright (c) 2018-2024 Ganesh Belgur Ramachandra</i>
+  <i>Copyright (c) 2018-2026 Ganesh Belgur Ramachandra</i>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.ganeshbelgur.com/" # the base hostname & protocol for your site, e.g. http://example.com
 disqus: https://alienspline.disqus.com/embed.js
